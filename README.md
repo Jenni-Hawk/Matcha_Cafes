@@ -10,5 +10,13 @@ Find the best locations for a new brand of Matcha Cafes
 # Business Question 
 **Where do we put matcha stores to best drive business success?**
 
+# Impact Hypothesis Statement
+Identifying geographic locations where people have higher income, and pursue healthy lifestyles, will increase the likelihood for sales of matcha drinks. 
+
+# Data used to answer the business question
+[Personal Income by County 2020 ](https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas)
+
+
+
 
 
