@@ -18,6 +18,12 @@ Identifying geographic locations where people have higher income, and pursue hea
 - [Number of Fitness and Recreational Sports Centers by County 2020](https://www.naics.com/naics-code-description/?code=713940)
 - [County Population Totals 2020](https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html)
 
+#Solution Path
+1. Filter Personal Income Data by > Median HHI $67,500 to get resulting counties that fall within that parameter
+- Rationale: Median HHI for US was $67,521 in 2020 
+
+
+
 
 
 
