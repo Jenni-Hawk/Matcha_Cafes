@@ -31,7 +31,13 @@ A list of counties that meet the personal income filter and contain a high conce
 - The number of gyms and recreational sports centers serves to gage how important health is to a county. It’s assumed that the higher concentration of these types of businesses the higher the county values health and are actively participating in making their health better.  Which means that matcha may be also be something they’re actively interested in. 
 - Matcha = better health  + feeling better (taste, experience) 
 
- 
+# Findings
+See the presentation and Tableau charts. 
+
+# Tech Tools Used
+- Excel
+- Pandas
+- Tableau
 
 
 
