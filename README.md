@@ -34,8 +34,9 @@ A list of counties that meet the personal income filter and contain a high conce
 # Findings
 Check out the presentation [here](https://github.com/Jenni-Hawk/Matcha_Cafes/blob/main/Matcha_Presentation.pdf)
 Check out the tableau interactive charts: 
-- [Resulting Counties from the Analyis](https://public.tableau.com/app/profile/jenni2472/viz/MatchaWork/Counties)
-
+- [Resulting Counties Mapped on US Map](https://public.tableau.com/app/profile/jenni2472/viz/MatchaWork/Counties)
+- [Top 20 Counties by Population](https://public.tableau.com/app/profile/jenni2472/viz/MatchaWork/Top20CountiesByPopulation)
+- [Fitness Centers Per 1000 People By Income](https://public.tableau.com/app/profile/jenni2472/viz/FitnessCentersIncome/FitnessIncome)
 
 # Tech Tools Used
 - Excel
