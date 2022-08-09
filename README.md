@@ -15,6 +15,10 @@ Identifying geographic locations where people have higher income, and pursue hea
 
 # Data used to answer the business question
 [Personal Income by County 2020 ](https://www.bea.gov/data/income-saving/personal-income-county-metro-and-other-areas)
+[Number of Fitness and Recreational Sports Centers by County 2020](https://www.naics.com/naics-code-description/?code=713940)
+[County Population Totals 2020](https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html)
+
+
 
 
 
