@@ -20,7 +20,9 @@ Identifying geographic locations where people have higher income, and pursue hea
 
 #Solution Path
 1. Filter Personal Income Data by > Median HHI $67,500 to get resulting counties that fall within that parameter
-- Rationale: Median HHI for US was $67,521 in 2020 
+2. Within the filtered personal income data overlay number of fitness centers by county
+3. Determine concentration of fitness centers by county population
+ 
 
 
 
