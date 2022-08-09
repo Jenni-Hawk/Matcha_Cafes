@@ -32,7 +32,7 @@ A list of counties that meet the personal income filter and contain a high conce
 - Matcha = better health  + feeling better (taste, experience) 
 
 # Findings
-Check out the presentation  
+Check out the presentation [here](https://github.com/Jenni-Hawk/Matcha_Cafes/blob/main/Matcha_Presentation.pdf)   
 
 # Tech Tools Used
 - Excel
