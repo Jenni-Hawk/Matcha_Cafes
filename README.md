@@ -39,8 +39,8 @@ Check out the presentation [here](https://github.com/Jenni-Hawk/Matcha_Cafes/blo
 - [Fitness Centers Per 1000 People By Income](https://public.tableau.com/app/profile/jenni2472/viz/FitnessCentersIncome/FitnessIncome)
 
 # Tech Tools Used
-- Excel
 - Pandas
+- Matplotlib
 - Tableau
 
 
